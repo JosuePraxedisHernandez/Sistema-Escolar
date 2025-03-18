@@ -6,7 +6,14 @@ Es una aplicación que permite gestionar alumnos, profesores y cursos de manera 
 - Usuario: admin
 - Password: admin
 
+## Instalación
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/JosuePraxedisHernandez/Sistema-Escolar.git
+
 ## Capturas de Pantalla
+
 ![image](https://github.com/user-attachments/assets/25e62a71-cdd4-41f5-8b99-09d0f743f196)
 
 ![image](https://github.com/user-attachments/assets/f74252d7-9cea-425e-9387-a8d948c2e096)
